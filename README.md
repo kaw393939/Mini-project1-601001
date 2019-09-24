@@ -1,5 +1,7 @@
 # Mini-project1-601001
 
+    mv fileToMove fileDestination
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {

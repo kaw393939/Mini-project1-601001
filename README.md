@@ -1,5 +1,14 @@
 # Mini-project1-601001
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+
 * List item 1
 * List Item 2
 
